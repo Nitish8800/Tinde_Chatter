@@ -52,23 +52,22 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007020-8503f29d-34ca-48ed-b07c-81eec173bd30.png)
+![image](https://user-images.githubusercontent.com/81190422/165006967-33016f29-f63e-4bb8-a69b-1175580a0536.png)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007081-26c25aa2-5955-475a-898c-5a548deca960.png)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007139-75ee9d5d-f985-420b-a704-596b2f95203c.png)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007166-29c28767-29cd-4e79-8aac-5fddc97504ad.png)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007232-cbaf5ce1-b792-4706-a0b3-43b294286d61.png)
 ### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007343-bf91f884-e304-4e17-aeb8-248a08bba59d.png)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007401-16cd3eb8-cb13-4950-a254-8846ab694eea.png)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
+![image](https://user-images.githubusercontent.com/81190422/165007413-442dd769-0887-4e4a-aabd-90681675f8e6.png)
 
 
 
