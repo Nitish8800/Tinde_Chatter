@@ -15,7 +15,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://mern-tinde-chater.herokuapp.com/
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![image](https://user-images.githubusercontent.com/81190422/165007575-682c84be-de2e-471c-8792-78f55dcd9a6f.png)
+
 ## Run Locally
 
 Go to the project directory
